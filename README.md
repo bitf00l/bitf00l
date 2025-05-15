@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @bitf00l
-- 👀 I’m interested in cybeer security 
-- 🌱 I’m currently learning pen testing
-- 💞️ I’m looking to collaborate on projects like creating beneficial tools in this field 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in cybeer security and coding 
+- 🌱 I’m currently learning pen testing and software development
+- 💞️ I’m looking to collaborate on projects like creating beneficial tools and work on projects in this field 
+- 📫 How to reach me:amineouadoud0@gmail.com
+- 😄 Pronouns: bitf00l
 - ⚡ Fun fact: ...
 
 <!---
