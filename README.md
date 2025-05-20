@@ -1,5 +1,5 @@
 --->
-<h1 align="center">Hi 👋, I'm [mohamed amine ouadoud aka bitf00l]</h1>
+<h1 align="center">Hi 👋, I'm [Mohamed Amine OUADOUD aka BITF00L]</h1>
 <p align="center">
   💻 Full-Stack Developer | 🚀 DevOps Enthusiast | 🛡️ Security-Aware | System administrator
 </p>
